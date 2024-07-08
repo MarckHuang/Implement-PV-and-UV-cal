@@ -8,6 +8,7 @@
 衡量流量的兩個指標PV和UV:
 
 PV (Page View) : 即頁面瀏覽量，用戶每次訪問頁面都算一個PV
+
 UV (Unique Visitor) : 網頁獨立訪客，用戶多次訪問頁面只能算一個UV
 
 
